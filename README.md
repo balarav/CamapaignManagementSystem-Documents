@@ -49,7 +49,7 @@ Start node app
 node filename.js
 ```
 the above API can be consumed with the below URL
-``` http://localhost:5000/api/campaigns ```
+``` http://localhost:5000/api/employees ```
 
 ## Database
 Please, create table(s) that are required to store the collected information. 
