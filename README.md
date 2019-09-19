@@ -2,7 +2,8 @@
 
 ## Web app
 - Create an angular app to add and maintain Campaigns for an advertisement agency. 
-- Please, collect, store and retrieve the following details to manage campaigns. Campaign Name  - free text
+- Please, collect, store and retrieve the following details to manage campaigns. 
+  - Campaign Name  - free text
   -	Short Description – free text
   -	Start Date - date
   -	End Date – date 
@@ -53,28 +54,28 @@ You’re free to use any database of your choice.
 ## Useful commands
 
 install angular cli
-` npm install -g @angular/cli `
+``` npm install -g @angular/cli ```
 
 check angular cli version
-` ng --version `
+``` ng --version ```
 
 create new angular project
-` ng new angular-projectname `
+``` ng new angular-projectname ```
 
 create new component
-` ng generate component component-name `
+``` ng generate component component-name ```
 
 create new service 
-`ng generate service service-name `
+``` ng generate service service-name ```
 
 restore packages 
-`npm install`
+``` npm install ```
 
 start angular app
-` ng serve --open `
+``` ng serve --open ```
 
 start node app 
-` node javascript-filename.js `
+``` node javascript-filename.js ```
 
 
 
