@@ -15,10 +15,10 @@ Advertisement content | string
 PS: Please, try to use the concepts that we have discussed during our sessions.
 
 ## Node app
-Create a node JS app that serves data from database.
+Create a node app that serves data from database.
 
-For creating node app. Please find the below instructions. 
-- Create new folder, 
+Please find the instructions below. 
+- Create new folder
 - Create a js filer under the folder
 
 ```
