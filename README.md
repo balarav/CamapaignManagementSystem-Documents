@@ -3,11 +3,15 @@
 ## Web app
 - Create an angular app to add and maintain Campaigns for an advertisement agency. 
 - Please, collect, store and retrieve the following details to manage campaigns. 
-  - Campaign Name  - free text
-  -	Short Description – free text
-  -	Start Date - date
-  -	End Date – date 
-  -	Advertisement content. ( content displayed in the stall )  - free text
+
+Name         | Type
+------------ | -------------
+Campaign Name | string
+Short Description | string
+Start Date | date
+End Date | date 
+Advertisement content | string
+
 PS: Please, try to use the concepts that we have discussed during our sessions.
 
 ## Node app
